@@ -1,0 +1,6 @@
+.formInformationServer{
+-fx-background-color:   linear-gradient(to right,#32E6EE,#3282EE);
+-fx-effect: dropshadow( three-pass-box,#38393A,10px,0px,2px,10px);
+-fx-border-radius: 50px;
+  -fx-background-radius:50px;
+}
